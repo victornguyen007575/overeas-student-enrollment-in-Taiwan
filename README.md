@@ -4,7 +4,7 @@ This project engineered an automated ETL pipeline that standardizes and visualiz
 ## Setup
 **Install the required Python packages:**
 ```bash
-pip install pandas numpy matplotlib seaborn fuzzywuzzy
+install pandas numpy matplotlib seaborn fuzzywuzzy
 ```
 **Place all these files in your project folder:**
 - countryTranslation.csv
