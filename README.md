@@ -1,10 +1,7 @@
 # Overseas Student Enrollment in Taiwan: Data Wrangling & Visualization
-This project presents a visualization of the trends and composition of overseas student enrollment in Taiwan from 2014 to 2024, based on official statistics from Taiwan’s Ministry of Education.
+This project engineered an automated ETL pipeline that standardizes and visualized a decade of Ministry of Education (MOE) records of overseas student enrollment in Taiwan into a longitudinal database for trend and composition analysis.
 
 ## Setup
-### Requirements
-- Python 3.8 or higher
-  
 **Install the required Python packages:**
 ```bash
 pip install pandas numpy matplotlib seaborn fuzzywuzzy
